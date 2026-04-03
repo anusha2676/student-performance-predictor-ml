@@ -43,3 +43,7 @@ Accuracy: 0.85
 - Add more dataset  
 - Create web app using Streamlit  
 - Add graphs and visualization
+
+- 
+## 📷 Output Screenshot
+![Output](output.png)
