@@ -11,6 +11,10 @@ This is a Machine Learning project that predicts whether a student will pass or 
 To predict whether a student will pass or fail using machine learning techniques.
 
 
+## 📊 Problem Statement
+Predicting student performance early helps in identifying students who need support and improves decision-making in education systems.
+
+
 ## 📊 Project Overview
 This project uses Logistic Regression to analyze student data and predict performance outcomes. It demonstrates machine learning concepts like data preprocessing, training, testing, and prediction.
 
