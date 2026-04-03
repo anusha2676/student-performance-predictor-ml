@@ -54,11 +54,11 @@ Accuracy: 0.85
 
 ---
 
-
 ## 🔮 Future Scope
-- Add more data for better accuracy  
-- Build web app using Streamlit  
-- Add graphs and visualization
+- Improve model accuracy using larger datasets  
+- Implement advanced ML algorithms (Random Forest, SVM)  
+- Build a web interface using Streamlit  
+- Add data visualization for better insights
 
 ---
 
